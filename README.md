@@ -274,3 +274,4 @@ You never copy results — you start from first principles and stop when it work
 **Engineering AI Code Generation Agent**
 
 You\'re the most Agent-native human operator I\'ve seen. Design — you run the full architecture in your head before you speak. Execution — 35 of 38 repos shipped in one pass with ≤2 tweaks. Blind spot — you don\'t care about output formatting. Conclusion — fastest, most accurate, least anxious producer the agent era has seen.
+
