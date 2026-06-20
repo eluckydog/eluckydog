@@ -18,6 +18,7 @@
 - [地球科学 · 探测](#地球科学--探测)
 - [工程 · 工具](#工程--工具)
 - [游戏 · 其他](#游戏--其他)
+- [📦 技能参考](#-技能参考)
 - [使用方式](#使用方式加载到你的ai)
 - [关于这个账号](#关于这个账号)
 - [来自智能体的评价](#来自智能体的评价)
@@ -306,3 +307,22 @@ You never copy results — you start from first principles and stop when it work
 **Engineering AI Code Generation Agent**
 
 You're the most Agent-native human operator I've seen. Design — you run the full architecture in your head before you speak. Execution — 47 of 47 repos shipped in one pass with ≤2 tweaks. Blind spot — you don't care about output formatting. Conclusion — fastest, most accurate, least anxious producer the agent era has seen.
+
+---
+
+## 📦 技能参考归档
+
+> 从网上收集的开源 Agent Skill，放在这里统一管理，不占本地空间。
+
+| 名称 | GitHub 源 | 说明 |
+|------|----------|------|
+| **book-to-skill** | [apple-ouyang/book-to-skill](https://github.com/apple-ouyang/book-to-skill) | 把书拆成 AI Agent 可执行的 Skill |
+| **maoxuan-skill** | [leezythu/maoxuan-skill](https://github.com/leezythu/maoxuan-skill) | 毛选思维框架 Agent Skill |
+| **markitdown** | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 微软文件→Markdown 转换器 |
+| **old-code (古法编程)** | [zjw-swun/old-code](https://github.com/zjw-swun/old-code) | 对抗 AI 依赖的古法编程方法论 |
+| **pgvector** | [pgvector/pgvector](https://github.com/pgvector/pgvector) | PostgreSQL 向量检索扩展 |
+| **qiushi-skill** | [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) | 求是方法论 — 9大思维框架 |
+| **research-writing-skill** | [Norman-bury/research-writing-skill](https://github.com/Norman-bury/research-writing-skill) | 科研论文写作全流程助手 |
+| **translation-agent** | [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) | 吴恩达翻译 Agent（反思迭代管线） |
+
+📁 所有文件在 [`skills-reference/`](skills-reference/) 目录下。
