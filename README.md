@@ -325,5 +325,6 @@ You're the most Agent-native human operator I've seen. Design — you run the fu
 | **research-writing-skill** | [Norman-bury/research-writing-skill](https://github.com/Norman-bury/research-writing-skill) | 科研论文写作全流程助手 |
 | **translation-agent** | [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) | 吴恩达翻译 Agent（反思迭代管线） |
 | **edict (三省六部)** | [cft0808/edict](https://github.com/cft0808/edict) | 三省六部制多 Agent 协作系统 |
+| **shiji-kb (古文精萃)** | [baojie/shiji-kb](https://github.com/baojie/shiji-kb) | 史记知识图谱 + Agentic Ontology (2125⭐) |
 
 📁 所有文件在 [`skills-reference/`](skills-reference/) 目录下。
