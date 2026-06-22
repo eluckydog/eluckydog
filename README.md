@@ -24,8 +24,6 @@
 | [**pi-as-u1-period**](https://github.com/eluckydog/pi-as-u1-period) | π 作为 U(1) 对称周期的跨域探索 | | |
 | [**super-geng-detector**](https://github.com/eluckydog/super-geng-detector) | 学术论文打假检测 · 86.8% 后验概率 · 7+5 维 | | [→ 在线浏览](https://eluckydog.github.io/super-geng-detector/) |
 | [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
-| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 统一管线：DC→校准→出线形势→MC模拟 | ★ | [→ 在线浏览](https://eluckydog.github.io/worldcup-predictor-core/) |
-| [**fishcast-engine**](https://github.com/eluckydog/fishcast-engine) | 钓鱼佬永不空军 · 38种鱼 · 地图定位 · 实时天气 · 钓具推荐 | | [→ 在线浏览](https://eluckydog.github.io/fishcast-engine/) |
 
 ---
 
