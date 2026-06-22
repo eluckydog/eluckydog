@@ -23,7 +23,7 @@
 | [**ppt-scene-graph**](https://github.com/eluckydog/ppt-scene-graph) | PowerPoint 场景图解析 · 让 AI 看懂每张 PPT | 3 | |
 | [**pi-as-u1-period**](https://github.com/eluckydog/pi-as-u1-period) | π 作为 U(1) 对称周期的跨域探索 | | |
 | [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487 节点知识图谱 · 43/43 测试通过 | | |
-| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 双引擎架构 | | |
+| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 双引擎架构 | | [→ 在线浏览](https://eluckydog.github.io/worldcup-predictor-core/) |
 
 ---
 
