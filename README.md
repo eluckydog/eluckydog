@@ -76,7 +76,6 @@
 | [Evidence-Grounded-Assertion-Verifier](https://github.com/eluckydog/Evidence-Grounded-Assertion-Verifier) | 证据评分 + 干预测试——如果证据被移除，结论还成立吗？ |
 | [super-geng-detector](https://github.com/eluckydog/super-geng-detector) | 学术论文多维度异常检测。贝叶斯证据网络聚合，输出带不确定性的后验造假概率 |
 | [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
-| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
 | [you-as-expert-activator-repo](https://github.com/eluckydog/you-as-expert-activator-repo) | 对 Karpathy「不要问 LLM 你怎么想」的实证批评。量化测量框架 + 可复现方法 |
 | [logic-deconstruction](https://github.com/eluckydog/logic-deconstruction) | 94 规则逻辑谬误检测引擎。六大领域：形式/非形式/修辞谬误 + 理科陷阱 + 营销号套路 + 对立煽动 |
 | [geng-academic-fraud-detector](https://github.com/eluckydog/geng-academic-fraud-detector) | 致敬耿同学的学术论文打假检测 Agent Skill |
@@ -235,7 +234,6 @@
 | [cmeta-epistemic-closure](https://github.com/eluckydog/cmeta-epistemic-closure) | Tool-level self-awareness. Declares scope + failure modes. 135 lines of logic |
 | [Evidence-Grounded-Assertion-Verifier](https://github.com/eluckydog/Evidence-Grounded-Assertion-Verifier) | Evidence scoring + intervention testing — does the conclusion hold when evidence is removed? |
 | [super-geng-detector](https://github.com/eluckydog/super-geng-detector) | Multi-dimensional paper anomaly detection. Bayesian evidence network with posterior fraud probability |
-| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
 | [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
 | [you-as-expert-activator-repo](https://github.com/eluckydog/you-as-expert-activator-repo) | Empirical critique of Karpathy's advice. Quantitative measurement framework + replicable methodology |
 | [logic-deconstruction](https://github.com/eluckydog/logic-deconstruction) | 94-rule logical fallacy detection engine. 6 domains: formal, informal, rhetorical, science traps, clickbait, polarization |
