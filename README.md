@@ -24,7 +24,7 @@
 | [**pi-as-u1-period**](https://github.com/eluckydog/pi-as-u1-period) | π 作为 U(1) 对称周期的跨域探索 | | |
 | [**super-geng-detector**](https://github.com/eluckydog/super-geng-detector) | 学术论文打假检测 · 86.8% 后验概率 · 7+5 维 | | [→ 在线浏览](https://eluckydog.github.io/super-geng-detector/) |
 | [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487 节点知识图谱 · 43/43 测试通过 | | |
-| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 双引擎架构 | | [→ 在线浏览](https://eluckydog.github.io/worldcup-predictor-core/) |
+| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 统一管线：DC→校准→出线形势→MC模拟 | ★ | [→ 在线浏览](https://eluckydog.github.io/worldcup-predictor-core/) |
 
 ---
 
@@ -137,7 +137,7 @@
 | [twelve-immortals-card-battle](https://github.com/eluckydog/twelve-immortals-card-battle) | 封神演义 × 希腊神话的策略卡牌对战引擎。5 世代 AI 人格驱动 |
 | [GAME-WWII-NAVAL-MIDWAY-MUD](https://github.com/eluckydog/GAME-WWII-NAVAL-MIDWAY-MUD) | 二战中途岛海战 MUD。回合制炮击/鱼雷对战 |
 | [ubsumo-elecomp](https://github.com/eluckydog/ubsumo-elecomp) | 泛素 vs SUMO 修饰位点的静电竞争分析 |
-| [worldcup-predictor-core](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测器。双引擎选择架构：泊松回归 + 因果动态选择。多源赔率融合 |
+| [worldcup-predictor-core](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测器。4层架构：DC泊松→+10%平局校准→LLM出线形势分析→10万次MC模拟。72场2.5秒管线 |
 
 </details>
 
@@ -295,7 +295,7 @@ Five factors. Five views of market structure.
 | [twelve-immortals-card-battle](https://github.com/eluckydog/twelve-immortals-card-battle) | Strategy card battle engine: Fengshen Yanyi × Greek mythology. 5-generation AI personalities |
 | [GAME-WWII-NAVAL-MIDWAY-MUD](https://github.com/eluckydog/GAME-WWII-NAVAL-MIDWAY-MUD) | WWII Midway naval MUD. Turn-based gun/torp combat |
 | [ubsumo-elecomp](https://github.com/eluckydog/ubsumo-elecomp) | Electrostatic competition analysis of ubiquitin vs SUMO modification sites |
-| [worldcup-predictor-core](https://github.com/eluckydog/worldcup-predictor-core) | 2026 FIFA World Cup daily predictor. Dual-engine: Poisson regression + causal dynamic selection. Multi-source odds fusion |
+| [worldcup-predictor-core](https://github.com/eluckydog/worldcup-predictor-core) | 2026 World Cup predictor. 4-layer pipeline: DC Poisson→+10% draw cal→LLM stakes→100k MC simulation. 72 matches in 2.5s |
 
 ---
 
