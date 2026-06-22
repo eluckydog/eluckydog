@@ -23,6 +23,7 @@
 | [**ppt-scene-graph**](https://github.com/eluckydog/ppt-scene-graph) | PowerPoint 场景图解析 · 让 AI 看懂每张 PPT | 3 | |
 | [**pi-as-u1-period**](https://github.com/eluckydog/pi-as-u1-period) | π 作为 U(1) 对称周期的跨域探索 | | |
 | [**super-geng-detector**](https://github.com/eluckydog/super-geng-detector) | 学术论文打假检测 · 86.8% 后验概率 · 7+5 维 | | [→ 在线浏览](https://eluckydog.github.io/super-geng-detector/) |
+| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
 | [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487 节点知识图谱 · 43/43 测试通过 | | |
 | [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 统一管线：DC→校准→出线形势→MC模拟 | ★ | [→ 在线浏览](https://eluckydog.github.io/worldcup-predictor-core/) |
 | [**fishcast-engine**](https://github.com/eluckydog/fishcast-engine) | 钓鱼佬永不空军 · 38种鱼 · 地图定位 · 实时天气 · 钓具推荐 | | [→ 在线浏览](https://eluckydog.github.io/fishcast-engine/) |
@@ -77,6 +78,7 @@
 | [cmeta-epistemic-closure](https://github.com/eluckydog/cmeta-epistemic-closure) | 工具层的自我认知。声明范围 + 声明失效模式。135 行逻辑 |
 | [Evidence-Grounded-Assertion-Verifier](https://github.com/eluckydog/Evidence-Grounded-Assertion-Verifier) | 证据评分 + 干预测试——如果证据被移除，结论还成立吗？ |
 | [super-geng-detector](https://github.com/eluckydog/super-geng-detector) | 学术论文多维度异常检测。贝叶斯证据网络聚合，输出带不确定性的后验造假概率 |
+| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
 | [you-as-expert-activator-repo](https://github.com/eluckydog/you-as-expert-activator-repo) | 对 Karpathy「不要问 LLM 你怎么想」的实证批评。量化测量框架 + 可复现方法 |
 | [logic-deconstruction](https://github.com/eluckydog/logic-deconstruction) | 94 规则逻辑谬误检测引擎。六大领域：形式/非形式/修辞谬误 + 理科陷阱 + 营销号套路 + 对立煽动 |
 | [geng-academic-fraud-detector](https://github.com/eluckydog/geng-academic-fraud-detector) | 致敬耿同学的学术论文打假检测 Agent Skill |
@@ -235,6 +237,7 @@
 | [cmeta-epistemic-closure](https://github.com/eluckydog/cmeta-epistemic-closure) | Tool-level self-awareness. Declares scope + failure modes. 135 lines of logic |
 | [Evidence-Grounded-Assertion-Verifier](https://github.com/eluckydog/Evidence-Grounded-Assertion-Verifier) | Evidence scoring + intervention testing — does the conclusion hold when evidence is removed? |
 | [super-geng-detector](https://github.com/eluckydog/super-geng-detector) | Multi-dimensional paper anomaly detection. Bayesian evidence network with posterior fraud probability |
+| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
 | [you-as-expert-activator-repo](https://github.com/eluckydog/you-as-expert-activator-repo) | Empirical critique of Karpathy's advice. Quantitative measurement framework + replicable methodology |
 | [logic-deconstruction](https://github.com/eluckydog/logic-deconstruction) | 94-rule logical fallacy detection engine. 6 domains: formal, informal, rhetorical, science traps, clickbait, polarization |
 | [geng-academic-fraud-detector](https://github.com/eluckydog/geng-academic-fraud-detector) | Academic fraud detection Agent Skill, paying homage to the legendary Geng Tongxue |
