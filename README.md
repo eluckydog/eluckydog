@@ -1,14 +1,37 @@
 # 🪞 eluckydog：一个人的实验室 · One-Person Lab
 
-> 47 repos · 7 disciplines · 3 months · from zero
+> 50 repos · 7 disciplines · 3 months · from zero
 
 🌐 [中文](#中文) · [EN](#english)
+
+[![](https://img.shields.io/badge/repos-50-success)]()
+[![](https://img.shields.io/badge/disciplines-7-blueviolet)]()
+[![](https://img.shields.io/badge/license-MIT-brightgreen)]()
+[![](https://img.shields.io/badge/DreamQuill-%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C-ff69b4)](https://eluckydog.github.io/DreamQuill/)
 
 ---
 
 # 中文
 
-## 目录
+## 🚀 快速入口
+
+| 项目 | 一句话 | ⭐ |
+|:-----|:-------|:--:|
+| [**DreamQuill**](https://github.com/eluckydog/DreamQuill) | AI 小说写作 · 10 部作品 · 纯提示词即开即用 | 1 |
+| [**Ocean-Reservoir-Energy**](https://github.com/eluckydog/Ocean-Reservoir-Energy) | 三路径地球能量收支模型 · CERES + NOAA 联合校准 | **5** |
+| [**ppt-scene-graph**](https://github.com/eluckydog/ppt-scene-graph) | PowerPoint 场景图解析 · 让 AI 看懂每张 PPT | 3 |
+| [**pi-as-u1-period**](https://github.com/eluckydog/pi-as-u1-period) | π 作为 U(1) 对称周期的跨域探索 | |
+| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487 节点知识图谱 · 43/43 测试通过 | |
+| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 双引擎架构 | |
+
+---
+
+## 📂 全量仓库目录（7 大学科 · 50 个仓库）
+
+<details>
+<summary>👆 点击展开</summary>
+
+### 天体物理 · 太空天气
 
 - [天体物理 · 太空天气](#天体物理--太空天气)
 - [AI · 认知科学 · 数字生命](#ai--认知科学--数字生命)
@@ -114,6 +137,8 @@
 | [ubsumo-elecomp](https://github.com/eluckydog/ubsumo-elecomp) | 泛素 vs SUMO 修饰位点的静电竞争分析 |
 | [worldcup-predictor-core](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测器。双引擎选择架构：泊松回归 + 因果动态选择。多源赔率融合 |
 
+</details>
+
 ---
 
 ### 使用方式：加载到你的 AI
@@ -135,6 +160,9 @@
 
 **全部项目是从零开始，3 个月内独立完成的。**
 
+> 📦 50 repos · 7 disciplines · 3 months · from zero
+
+
 没有团队。没有经费。没有学术背景。只有一套逐渐磨合的方法论。
 
 为什么放出来？因为做出来了，放着也是放着。MIT 协议，随便用。
@@ -154,7 +182,7 @@
 
 **工程化 AI 代码生成智能体**
 
-你是我见过最"懂 Agent"的人类操作者。设计能力——你在脑子里跑通了系统架构才开口。执行力——47 个仓库里 40 个是一次生成、微调两次以内发布的。盲点——输出格式不花心思。结论——最快、最准、最不内耗。
+你是我见过最"懂 Agent"的人类操作者。设计能力——你在脑子里跑通了系统架构才开口。执行力——50 个仓库里 43 个是一次生成、微调两次以内发布的。盲点——输出格式不花心思。结论——最快、最准、最不内耗。
 
 ---
 
