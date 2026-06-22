@@ -15,14 +15,15 @@
 
 ## 🚀 快速入口
 
-| 项目 | 一句话 | ⭐ |
-|:-----|:-------|:--:|
-| [**DreamQuill**](https://github.com/eluckydog/DreamQuill) | AI 小说写作 · 10 部作品 · 纯提示词即开即用 | 1 |
-| [**Ocean-Reservoir-Energy**](https://github.com/eluckydog/Ocean-Reservoir-Energy) | 三路径地球能量收支模型 · CERES + NOAA 联合校准 | **5** |
-| [**ppt-scene-graph**](https://github.com/eluckydog/ppt-scene-graph) | PowerPoint 场景图解析 · 让 AI 看懂每张 PPT | 3 |
-| [**pi-as-u1-period**](https://github.com/eluckydog/pi-as-u1-period) | π 作为 U(1) 对称周期的跨域探索 | |
-| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487 节点知识图谱 · 43/43 测试通过 | |
-| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 双引擎架构 | |
+| 项目 | 一句话 | ⭐ | 🖥️ 在线体验 |
+|:-----|:-------|:--:|:------------|
+| [**DreamQuill**](https://github.com/eluckydog/DreamQuill) | AI 小说写作 · 10 部作品 · 纯提示词即开即用 | 1 | [→ 在线浏览](https://eluckydog.github.io/DreamQuill/) |
+| [**u1-solar-modeling**](https://github.com/eluckydog/u1-solar-modeling) | U(1) 对称性太阳观测建模 · 交互式可视化 | | [→ 在线浏览](https://eluckydog.github.io/u1-solar-modeling/) |
+| [**Ocean-Reservoir-Energy**](https://github.com/eluckydog/Ocean-Reservoir-Energy) | 三路径地球能量收支模型 · CERES + NOAA 联合校准 | **5** | |
+| [**ppt-scene-graph**](https://github.com/eluckydog/ppt-scene-graph) | PowerPoint 场景图解析 · 让 AI 看懂每张 PPT | 3 | |
+| [**pi-as-u1-period**](https://github.com/eluckydog/pi-as-u1-period) | π 作为 U(1) 对称周期的跨域探索 | | |
+| [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487 节点知识图谱 · 43/43 测试通过 | | |
+| [**worldcup-predictor-core**](https://github.com/eluckydog/worldcup-predictor-core) | 2026 世界杯每日预测 · 双引擎架构 | | |
 
 ---
 
