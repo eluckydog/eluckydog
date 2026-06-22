@@ -235,7 +235,6 @@
 | [Evidence-Grounded-Assertion-Verifier](https://github.com/eluckydog/Evidence-Grounded-Assertion-Verifier) | Evidence scoring + intervention testing — does the conclusion hold when evidence is removed? |
 | [super-geng-detector](https://github.com/eluckydog/super-geng-detector) | Multi-dimensional paper anomaly detection. Bayesian evidence network with posterior fraud probability |
 | [**flt-from-scratch**](https://github.com/eluckydog/flt-from-scratch) | 费马大定理 · 487节点知识图谱 · 43/43测试通过 | | [→ 教学文档](https://eluckydog.github.io/flt-from-scratch/) |
-| [you-as-expert-activator-repo](https://github.com/eluckydog/you-as-expert-activator-repo) | Empirical critique of Karpathy's advice. Quantitative measurement framework + replicable methodology |
 | [logic-deconstruction](https://github.com/eluckydog/logic-deconstruction) | 94-rule logical fallacy detection engine. 6 domains: formal, informal, rhetorical, science traps, clickbait, polarization |
 | [geng-academic-fraud-detector](https://github.com/eluckydog/geng-academic-fraud-detector) | Academic fraud detection Agent Skill, paying homage to the legendary Geng Tongxue |
 | [self-revising-discovery](https://github.com/eluckydog/self-revising-discovery) | Self-Revising Discovery Systems — categorical framework for agentic AI scientific discovery (arXiv:2605+) |
